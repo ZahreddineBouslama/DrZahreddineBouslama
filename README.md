@@ -20,8 +20,8 @@ Evidence-based market analysis, training, and research-informed tools for real e
 ## Links
 - Website (GitHub Pages): https://github.com/ZahreddineBouslama/eu-hpi-herding-csad
 - Working paper
-- LinkedIn: [(add)](https://www.linkedin.com/in/zahreddine-b-29192214/)
+- LinkedIn: (https://www.linkedin.com/in/zahreddine-b-29192214/)
 - Google Scholar / ORCID: (https://orcid.org/0000-0002-2904-5654)
 
 ## Contact
-Email: (add)
+
